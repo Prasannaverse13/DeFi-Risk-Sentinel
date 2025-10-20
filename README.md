@@ -1416,6 +1416,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for the Somnia ecosystem**
 
-[Website](https://yourproject.com) • [Documentation](https://docs.yourproject.com) • [Twitter](https://twitter.com/yourproject)
-
 </div>
