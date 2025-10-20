@@ -119,20 +119,6 @@ When migrating to Somnia Mainnet (Chain ID: 5031), use these addresses:
 **Mainnet RPC**: `https://api.infra.mainnet.somnia.network/`  
 **Mainnet Explorer**: `https://explorer.somnia.network`
 
-### **Application Deployment**
-
-**Development Environment**: Currently running on Replit
-
-**To Get Public Deployment URL**:
-1. Click the **"Publish"** button in your Replit environment
-2. Your application will be deployed at: `https://[your-repl-name].[your-username].repl.co`
-3. The deployed app will have the same contract monitoring capabilities
-
-**Alternative Deployment Options**:
-- Vercel: `vercel --prod`
-- Netlify: `netlify deploy --prod`
-- Railway: `railway up`
-- Self-hosted: `npm run build && npm start`
 
 ### **How to Add Your Protocol**
 
